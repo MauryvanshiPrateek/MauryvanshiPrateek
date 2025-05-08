@@ -88,14 +88,14 @@ As a Student Coordinator, I am responsible for:
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=MauryvannshiPrateek&color=green)
+![](https://komarev.com/ghpvc/?username=MauryvanshiPrateek&color=green)
 
 
 </p> 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MauryvannshiPrateeki&theme=matrix" alt="MauryvannshiPrateek" /></a> 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=MauryvanshiPrateeki&theme=matrix" alt="MauryvanshiPrateek" /></a> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryvannshiPrateek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauryvanshiPrateek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 
 -->
 ---
